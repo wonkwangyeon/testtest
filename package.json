@@ -1,0 +1,17 @@
+{
+  "name": "@wonkwangyeon/testtest",
+  "version": "1.0.0",
+  "description": "test",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3"
+  },
+  "publishConfig": {
+    "@wonkwangyeon:registry": "https://npm.pkg.github.com/"
+  }
+}
